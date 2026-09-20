@@ -1,0 +1,5 @@
+Nome: Murilo Costa
+Curso: Técnico em Informática - IFPI
+Turma: 3 Ano
+Cidade: Parnaíba - PI
+Objetivo: Aprender Git e GitHub para trabalhar em projetos colaborativos.
